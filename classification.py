@@ -1,3 +1,4 @@
+#main code to do classification
 import torch, torchvision
 from torchvision import datasets, models, transforms
 import torch.nn as nn
